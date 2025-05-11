@@ -2,19 +2,6 @@
 
 # 안녕하세요
 
-```
-
-
-██████╗  █████╗ ██████╗ ███████╗    ███╗   ███╗ █████╗ ████████╗███████╗██████╗ 
-██╔══██╗██╔══██╗██╔══██╗██╔════╝    ████╗ ████║██╔══██╗╚══██╔══╝██╔════╝██╔══██╗
-██████╔╝███████║██████╔╝█████╗      ██╔████╔██║███████║   ██║   █████╗  ██████╔╝
-██╔══██╗██╔══██║██╔══██╗██╔══╝      ██║╚██╔╝██║██╔══██║   ██║   ██╔══╝  ██╔══██╗
-██║  ██║██║  ██║██████╔╝███████╗    ██║ ╚═╝ ██║██║  ██║   ██║   ███████╗██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝    ╚═╝     ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝
-
-
-```
-
 백엔드 개발자를 희망하는 **Rabe**입니다.  
 끊임없이 배우고 성장하는 개발자가 되기 위해 노력하고 있습니다.
 
@@ -34,21 +21,12 @@
 
 ## 💻 Skills
 
-### Core
+### Core  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
+### Additional  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white) ![Reversing](https://img.shields.io/badge/Reversing-000000?style=for-the-badge&logo=BookStack&logoColor=white)
 
-### Additional
-
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Reversing-000000?style=for-the-badge&logo=BookStack&logoColor=white"/>
 
 ---
 
@@ -57,6 +35,7 @@
 <a href="https://r4b2.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/티스토리-000000?style=for-the-badge&logo=Tistory&logoColor=white"/>
 </a>
+
 <a href="https://blog.naver.com/rxbxdxb/" target="_blank">
   <img src="https://img.shields.io/badge/네이버(사용안함)-000000?style=for-the-badge&logo=Naver&logoColor=%2303C75A"/>
 </a>
