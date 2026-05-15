@@ -2,7 +2,7 @@
 
 # Hello, I'm Raven <img src="https://github.com/RabeMaster.png" width="40px" style="vertical-align:bottom; border-radius:50%;" alt="Raven profile"/>
 
-I am a Backend engineer with a hunger for growth and a focus on reliability.
+Backend engineer with a hunger for growth and a focus on reliability.
 
 ---
 
